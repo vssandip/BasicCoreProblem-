@@ -7,7 +7,8 @@ namespace BasicCoreProblem
         static void Main(string[] args)
         {
             Console.WriteLine("+*+*+*+**+*+*+ Welcome *+*+*+*+*+*+*+*");
-            FlipCoin.flipcoin();
+           // FlipCoin.flipcoin();
+            LeapYear.leapYear();
         }
     }
 }
